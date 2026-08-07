@@ -1,6 +1,5 @@
 # Financial-Health-Ratio-Dashboard
 Developed a dynamic Excel dashboard to evaluate company financial health using liquidity, profitability, leverage, and efficiency ratios. Automated calculations with VLOOKUP, INDEX-MATCH, and nested IF formulas, and visualized 5-year financial trends through interactive charts for faster financial analysis.
-![Financial Health Ratio Dashboard](assets/project_banner.png)
 
 The dataset used throughout ("Meridian Retail Group," FY2020–FY2024) is an illustrative, self-consistent
 financial model built for this project, so the workbook can be opened, explored, and edited freely without
